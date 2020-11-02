@@ -8,6 +8,9 @@
 
 <!-- .slide: class="slide" -->
 
-![](img/serveur.png)
+![](img/serveur.png)  
+
+* Densité du SI : 0  
+* Résilience : 0  
 
 ---
