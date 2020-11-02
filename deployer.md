@@ -4,4 +4,10 @@
 
 ---
 
+## A l'ancienne
 
+<!-- .slide: class="slide" -->
+
+![](img/serveur.png)
+
+---
