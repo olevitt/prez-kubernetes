@@ -1,0 +1,18 @@
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: slides
+  annotations:
+    kubernetes.io/ingress.class: nginx
+spec:
+  tls:
+    - hosts:
+        - slides.dev.insee.io
+  rules:
+    - host: slides.dev.insee.io
+      http:
+        paths:
+          - path: /
+            backend:
+              serviceName: slides
+              servicePort: http
