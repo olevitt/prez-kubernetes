@@ -22,9 +22,3 @@ docker run -p 8080:80 inseefr/pearl-jam
 ```
 docker run -p 8080:9001 etherpad/etherpad
 ```
-
-```
-docker run -p 8080:80 gitlab/gitlab-ce
-```
-
-<!-- .element: class="fragment" -->
