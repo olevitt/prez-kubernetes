@@ -4,7 +4,7 @@
 
 ---
 
-## Programme
+## Principe
 
 <!-- .slide: class="slide" -->
 
