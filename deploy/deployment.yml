@@ -14,5 +14,4 @@ spec:
     spec:
       containers:
         - name: slides
-          imagePullPolicy: Always
-          image: estragonthecat/prez-kubernetes:master
+          image: estragonthecat/prez-kubernetes:v1.0
