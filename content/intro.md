@@ -2,6 +2,7 @@
 
 Olivier Levitt  
 
-https://slides.dev.insee.io
+https://slides.dev.insee.io  
+https://github.com/olevitt/prez-kubernetes
 
 <!-- .slide: class="slide" -->
